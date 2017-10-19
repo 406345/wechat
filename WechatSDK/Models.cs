@@ -231,7 +231,7 @@ namespace WechatSDK.API
         /// </summary>
         public long Sex { get; set; }
         /// <summary>
-        /// 韩国化妆品，荷兰奶粉。绝对正品。可面交..朋友圈有折扣信息！
+        ///  
         /// </summary>
         public string Signature { get; set; }
         /// <summary>
